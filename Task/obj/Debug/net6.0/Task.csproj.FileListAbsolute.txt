@@ -3,3 +3,13 @@ D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.
 D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.AssemblyInfoInputs.cache
 D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.AssemblyInfo.cs
 D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.csproj.CoreCompileInputs.cache
+D:\Пашка аналитик\0. 1 четверть\Task\bin\Debug\net6.0\Task.exe
+D:\Пашка аналитик\0. 1 четверть\Task\bin\Debug\net6.0\Task.deps.json
+D:\Пашка аналитик\0. 1 четверть\Task\bin\Debug\net6.0\Task.runtimeconfig.json
+D:\Пашка аналитик\0. 1 четверть\Task\bin\Debug\net6.0\Task.dll
+D:\Пашка аналитик\0. 1 четверть\Task\bin\Debug\net6.0\Task.pdb
+D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.dll
+D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\refint\Task.dll
+D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.pdb
+D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\Task.genruntimeconfig.cache
+D:\Пашка аналитик\0. 1 четверть\Task\obj\Debug\net6.0\ref\Task.dll
