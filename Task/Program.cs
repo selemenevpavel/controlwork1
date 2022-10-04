@@ -17,7 +17,6 @@ string[] ShowArray = new string[CreateArray.Length];
 
 void SecondArray(string[] CreateArray, string[] ShowArray)
 {
-    int count = 0;
     Console.WriteLine("Введите максимальную длину строки для вывода");
     int n = Convert.ToInt32(Console.ReadLine());
 
@@ -25,8 +24,7 @@ void SecondArray(string[] CreateArray, string[] ShowArray)
     {
         if (CreateArray[i].Length <= n)
         {
-            ShowArray[count] = CreateArray[i];
-            count++;
+            ShowArray[i] = CreateArray[i];
         }
     }
 }
