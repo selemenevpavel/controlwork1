@@ -17,7 +17,7 @@
 
 ### *Или же можно пройти по ссылке на гитхаб*
 
-Это [мой репозиторий](https://https://github.com/selemenevpavel/controlwork1)
+Это [мой репозиторий](https://github.com/selemenevpavel/controlwork1)
 
 ## Программа 
 
